@@ -28,11 +28,10 @@ Repository include folders for group implementations;
      
  4. **Run the project**:
     ```
-    dotnet build
+    dotnet run
     
    ### Example
-
-     ```
+   ```
     Enter keys (e.g., '222 2 22') or press ESC to exit:  8 88777444666*664#
     Output: TURING
     Press ESC to exit or any key to continue...
